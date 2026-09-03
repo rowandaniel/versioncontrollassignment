@@ -1,3 +1,4 @@
 brick breaker but moore interactive. more structure
 we can add themes of preexisting games
 have multiple options for different gamers
+Have the option to change what the breaker looks like
